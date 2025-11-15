@@ -90,7 +90,8 @@
   - Open `Dashboard.pbix` in Power BI Desktop
   - Refresh the dataset or replace the data source
   - Interact with filters, drilldowns & visuals
+  - [Amazon Sales Dashboard](https://app.powerbi.com/groups/me/reports/e1f01599-16dd-4c02-baab-582f9c3f72a7/62d26a574f269e09fb7c?experience=power-bi)
 
 ## 📬 Contact
   - For any queries or collaborations:
-    - Vishal — Power BI | Data Analyst | Python Developer
+    > **Vishal — Power BI | Data Analyst | Python Developer**
